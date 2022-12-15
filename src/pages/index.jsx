@@ -1,0 +1,5 @@
+export {default as Home} from './Home/Home'
+export {default as Login} from './Login/Login'
+export {default as Orders} from './Order/Orders'
+export {default as CreateOrder} from './Order/CreateOrder'
+export {default as CreateNewOrder} from './Order/CreateNewOrder'
